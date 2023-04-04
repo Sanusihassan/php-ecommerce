@@ -1,0 +1,16 @@
+{
+    "home_admin": "Home",
+    "navbar": {
+        "categories": "categories",
+        "items": "items",
+        "members": "members",
+        "comments": "comments",
+        "statistics": "statistics",
+        "logs": "logs"
+    },
+    "navbar_dropdown": {
+        "edit_profile": "edit profile",
+        "settings": "settings",
+        "logout": "logout"
+    }
+}
